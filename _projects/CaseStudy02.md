@@ -1,15 +1,12 @@
 ---
 layout: page
-title: DDSAnalytics: A Case Study About Attrition
+title: Attrition
 description: Predicting Attrition based on Historical Data via KNN and Naive Bayes
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-
-
 
 <!DOCTYPE html>
 
