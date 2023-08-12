@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DDSAnalytics: A case study about attrition
+title: attrition case study
 description: Predicting Attrition based on Historical Data via KNN and Naive Bayes
 img: assets/img/Attrition_Cover.png
 importance: 1
